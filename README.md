@@ -1,6 +1,6 @@
 <h1 align="center">Hey👋, soumili this side !</h1>
 <h3 align="center">A passionate full-stack developer</h3>
-<img align="right" align="coding" width="300" src="https://media.tenor.com/-6m2vqRjKDEAAAAj/geek-girl.gif">
+<img align="right" align="coding" width="300" height="300" src="https://media.tenor.com/-6m2vqRjKDEAAAAj/geek-girl.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumilid03&label=Profile%20views&color=0e75b6&style=flat" alt="soumilid03" /> </p>
 
 - 🔭 I’m currently working on **Block Chain Based Cloud Computing Model on EVM Transactions for Secure Voting**
